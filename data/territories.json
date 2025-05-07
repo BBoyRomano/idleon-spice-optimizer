@@ -1,0 +1,122 @@
+[
+  {
+      "name": "Grasslands",
+      "forage": 5,
+      "fight": 0
+  },
+  {
+      "name": "Jungle",
+      "forage": 20,
+      "fight": 5
+  },
+  {
+      "name": "Encroaching Forest",
+      "forage": 100,
+      "fight": 20
+  },
+  {
+      "name": "Tree Interior",
+      "forage": 250,
+      "fight": 50
+  },
+  {
+      "name": "Stinky Sewers",
+      "forage": 1000,
+      "fight": 100
+  },
+  {
+      "name": "Desert Oasis",
+      "forage": 2000,
+      "fight": 250
+  },
+  {
+      "name": "Beach Docks",
+      "forage": 5000,
+      "fight": 600
+  },
+  {
+      "name": "Coarse Mountains",
+      "forage": 10000,
+      "fight": 900
+  },
+  {
+      "name": "Twilight Desert",
+      "forage": 20000,
+      "fight": 1250
+  },
+  {
+      "name": "The Crypt",
+      "forage": 30000,
+      "fight": 2000
+  },
+  {
+      "name": "Frosty Peaks",
+      "forage": 50000,
+      "fight": 3000
+  },
+  {
+      "name": "Tundra Outback",
+      "forage": 100000,
+      "fight": 4500
+  },
+  {
+      "name": "Crystal Caverns",
+      "forage": 250000,
+      "fight": 6500
+  },
+  {
+      "name": "Pristalle Lake",
+      "forage": 500000,
+      "fight": 9000
+  },
+  {
+      "name": "Nebulon Mantle",
+      "forage": 800000,
+      "fight": 13250
+  },
+  {
+      "name": "Starfield Skies",
+      "forage": 1250000,
+      "fight": 17000
+  },
+  {
+      "name": "Shores of Eternity",
+      "forage": 1500000,
+      "fight": 25000
+  },
+  {
+      "name": "Molten Bay",
+      "forage": 3000000,
+      "fight": 45000
+  },
+  {
+      "name": "Smokey Lake",
+      "forage": 5000000,
+      "fight": 75000
+  },
+  {
+      "name": "Wurm Catacombs",
+      "forage": 10000000,
+      "fight": 110000
+  },
+  {
+      "name": "Spirit Fields",
+      "forage": 15000000,
+      "fight": 200000
+  },
+  {
+      "name": "Bamboo Forest",
+      "forage": 50000000,
+      "fight": 400000
+  },
+  {
+      "name": "Lullaby Airways",
+      "forage": 100000000,
+      "fight": 850000
+  },
+  {
+      "name": "Dharma Mesa",
+      "forage": 300000000,
+      "fight": 1500000
+  }
+]

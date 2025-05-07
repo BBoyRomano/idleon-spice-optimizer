@@ -1,0 +1,138 @@
+[
+  {
+      "id": 0,
+      "name": "Fighter"
+  },
+  {
+      "id": 1,
+      "name": "Defender"
+  },
+  {
+      "id": 2,
+      "name": "Forager"
+  },
+  {
+      "id": 3,
+      "name": "Fleeter"
+  },
+  {
+      "id": 4,
+      "name": "Breeder"
+  },
+  {
+      "id": 5,
+      "name": "Shiny"
+  },
+  {
+      "id": 6,
+      "name": "Mercenary"
+  },
+  {
+      "id": 7,
+      "name": "Boomer"
+  },
+  {
+      "id": 8,
+      "name": "Sniper"
+  },
+  {
+      "id": 9,
+      "name": "Amplifier"
+  },
+  {
+      "id": 10,
+      "name": "Tsar"
+  },
+  {
+      "id": 11,
+      "name": "Rattler"
+  },
+  {
+      "id": 12,
+      "name": "Cursory"
+  },
+  {
+      "id": 13,
+      "name": "Fastidious"
+  },
+  {
+      "id": 14,
+      "name": "Flashy"
+  },
+  {
+      "id": 15,
+      "name": "Opticular"
+  },
+  {
+      "id": 16,
+      "name": "Monolithic"
+  },
+  {
+      "id": 17,
+      "name": "Alchemic"
+  },
+  {
+      "id": 18,
+      "name": "Badumdum"
+  },
+  {
+      "id": 19,
+      "name": "Defstone"
+  },
+  {
+      "id": 20,
+      "name": "Targeter"
+  },
+  {
+      "id": 21,
+      "name": "Looter"
+  },
+  {
+      "id": 22,
+      "name": "Refiller"
+  },
+  {
+      "id": 23,
+      "name": "Eggshell"
+  },
+  {
+      "id": 24,
+      "name": "Lazarus"
+  },
+  {
+      "id": 25,
+      "name": "Trasher"
+  },
+  {
+      "id": 26,
+      "name": "Miasma"
+  },
+  {
+      "id": 27,
+      "name": "Converter"
+  },
+  {
+      "id": 28,
+      "name": "Heavyweight"
+  },
+  {
+      "id": 29,
+      "name": "Fastihoop"
+  },
+  {
+      "id": 30,
+      "name": "Ninja"
+  },
+  {
+      "id": 31,
+      "name": "Superboomer"
+  },
+  {
+      "id": 32,
+      "name": "Peapeapod"
+  },
+  {
+      "id": 33,
+      "name": "Borger"
+  }
+]
