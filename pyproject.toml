@@ -1,0 +1,13 @@
+[project]
+requires-python = ">=3.13"
+
+[tool.ruff]
+
+[tool.ruff.lint]
+select = ["ALL"]
+
+[tool.ruff.format]
+
+[tool.mypy]
+python_version = 3.13
+strict = true
